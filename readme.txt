@@ -6,3 +6,5 @@ Add connection with GitHub.
 Creating a new branch is quick and simple.
 
 On Off merge testing.
+
+Adding testing script for stash purpose.
